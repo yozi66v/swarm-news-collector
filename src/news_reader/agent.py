@@ -3,7 +3,7 @@ import sys
 import json
 from dotenv import load_dotenv
 import anthropic
-from duckduckgo_search import DDGS
+from ddgs import DDGS
 
 load_dotenv()
 

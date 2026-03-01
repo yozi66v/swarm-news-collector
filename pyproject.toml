@@ -5,7 +5,7 @@ description = "Agentic AI news collector using Claude and DuckDuckGo"
 requires-python = ">=3.10"
 dependencies = [
     "anthropic>=0.40.0",
-    "duckduckgo-search>=6.0.0",
+    "ddgs>=0.1.0",
     "python-dotenv>=1.0.0",
 ]
 
