@@ -11,6 +11,7 @@ dependencies = [
 
 [project.scripts]
 news-reader = "news_reader.agent:main"
+news-writer = "news_reader.file_writer:main"
 
 [build-system]
 requires = ["hatchling"]

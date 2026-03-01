@@ -1,8 +1,4 @@
-# prompts
-
-This file contains the prompts used for generating this project. The new prompts are on the top of the file.
-
-# Create the project
+# create the news reader agent
 
 Set up a python project for agentic AI. 
 Start with a simple AI agent that reads the Anthropic key from the .env file 
@@ -21,7 +17,6 @@ news-collector/
 ```
 
 To get started:
-
 
 1. Create and activate a virtual environment
 ```
