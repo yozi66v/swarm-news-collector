@@ -10,5 +10,6 @@ uv pip install -e .
 
 run:
 ```
-news_reader
+news-writer "artificial intelligence"
+news-writer "open source software"
 ```
