@@ -48,3 +48,21 @@ or with the installed script:
 ```
 news-collector "latest AI news"
 ```
+
+## adjust the project
+
+Create an src folder and move the agent into the news_reader package. 
+Later we will have other agents for publishing the summary of the collected news.
+
+Done. The new structure is:
+```
+news-collector/
+├── src/
+│   └── news_reader/
+│       ├── __init__.py
+│       └── agent.py
+├── .env.example
+├── .gitignore
+├── pyproject.toml
+└── README.md
+```
